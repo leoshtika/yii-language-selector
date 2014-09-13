@@ -4,7 +4,7 @@
  * 
  * @author Leonard Shtika <leonard@shtika.info>
  * @link http://leonard.shtika.info/yii/language-selector
- * @copyright (C) 2012-2014 Leonard Shtika
+ * @copyright (C) 2014 Leonard Shtika
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
 
